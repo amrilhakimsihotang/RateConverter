@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rate Converter</string>
+    <string name="label">Value</string>
+    <string name="hasil">Result</string>
+    <string name="btnConvert">Convert</string>
+    <string name="dollar">Dollar</string>
+    <string name="rupiah">Rupiah</string>
+    <string name="defaultValue">1</string>
+    <string name="edtTxt">Value</string>
+    <string name="lblName">Label</string>
+    <string name="radioButton">Radio Button</string>
+    <string name="clear">Clear</string>
+    <string name="btnClear">Clear</string>
+    <string name="hasil2">0</string>
+</resources>
